@@ -9,7 +9,6 @@ Demo için 0.5 L pet şişe sensör gövdesi olarak kullanılmış, gerçek kull
 - 4× seviye prob kablosu (sensör elektrotları)
 - 4× NPN transistör (ör. BC547/2N3904 vb.)
 - 4× LED
-- 4× LED seri direnci (220–1kΩ arası, LED rengine/akımına göre)
 - 1× On/Off anahtar (switch)
 - 1× 9 V pil + pil başlığı
 - Tahta plaka (montaj için), küçük vida/kelepçe
